@@ -1,1 +1,1 @@
-# contract
+# contractregistry.io

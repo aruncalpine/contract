@@ -1,0 +1,8 @@
+schema:
+  - ${API_URL:https://contract-reg-strapi.gameficap.com/graphql}
+generates:
+  ./graphql/types.ts:
+    plugins:
+      - typescript
+      - typescript-operations
+      - typescript-document-nodes

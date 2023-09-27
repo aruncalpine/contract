@@ -1,0 +1,9 @@
+{
+  "name": "Contract Registry",
+  "short_name": "Contract Registry",
+  "theme_color": "#1C083D",
+  "background_color": "#1C083D",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/"
+}
